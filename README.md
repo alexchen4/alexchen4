@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey, I'm Alex! 👋
 
-👨‍💻 I am a rising senior at UC Berkeley studying Data Science and Economics.
+👨‍💻 I'm a rising senior at UC Berkeley studying Data Science and Economics.
 
 📊 I’m interested in working in analytics, but also have interests in product development, operations research, and public health.
 
